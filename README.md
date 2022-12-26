@@ -1,2 +1,0 @@
-# IAMCTH
-Threat-Hunting
